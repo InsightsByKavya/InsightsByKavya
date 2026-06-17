@@ -7,12 +7,13 @@
     def __init__(self):
         self.role        = "Data Analyst"
         self.location    = "Noida, India 🇮🇳"
-        self.focus       = [
-            "Machine Learning & Predictive Modeling",
-            "Generative AI & Prompt Architecture",
-            "Data Visualization & Storytelling",
+        self.focus       = "Data Analysis & Business Intelligence"
+                           "Data-Driven Decision Making"
+                           "SQL, Python & Power BI"
+                           "Generative AI"
+            
           
-        ]
+       
         self.currently   = "Deepening Python + Machine Learning"
         self.stack       = {
         "languages" : ["Python", "SQL"],
